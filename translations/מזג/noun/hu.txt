@@ -1,0 +1,1 @@
+["természet","kedély","hangulat"]

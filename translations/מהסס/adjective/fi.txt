@@ -1,0 +1,1 @@
+["epävarma","arka","horjuva"]

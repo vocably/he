@@ -1,0 +1,1 @@
+["temperamento","humor","estado de ánimo"]
