@@ -1,1 +1,3 @@
-["Adkaysi","Awood","Difaac"]
+Adkaysi
+Awood
+Difaac

@@ -1,1 +1,3 @@
-["ƙarfi","juriya","rigakafi"]
+ƙarfi
+juriya
+rigakafi

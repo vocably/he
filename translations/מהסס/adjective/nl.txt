@@ -1,1 +1,3 @@
-["aarzelend","besluiteloos","onzeker"]
+aarzelend
+besluiteloos
+onzeker

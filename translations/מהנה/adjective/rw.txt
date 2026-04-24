@@ -1,1 +1,3 @@
-["ishimishije","ryiza","rinejeje"]
+ishimishije
+ryiza
+rinejeje

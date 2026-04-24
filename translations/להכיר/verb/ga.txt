@@ -1,1 +1,3 @@
-["aithnigh","bí ar an eolas faoi","admhaigh"]
+aithnigh
+bí ar an eolas faoi
+admhaigh

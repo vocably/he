@@ -1,1 +1,3 @@
-["kupuuza","kuacha","kutelekeza"]
+kupuuza
+kuacha
+kutelekeza

@@ -1,1 +1,3 @@
-["tədricən","getdikcə","addım-addım"]
+tədricən
+getdikcə
+addım-addım

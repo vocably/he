@@ -1,1 +1,3 @@
-["amandla","ukuqina","impilo"]
+amandla
+ukuqina
+impilo

@@ -1,1 +1,3 @@
-["maglaan","ialay","italaga"]
+maglaan
+ialay
+italaga

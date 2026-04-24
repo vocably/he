@@ -1,1 +1,3 @@
-["motstandskraft","robusthet","immunitet"]
+motstandskraft
+robusthet
+immunitet

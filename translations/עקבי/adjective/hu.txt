@@ -1,1 +1,2 @@
-["következetes","konzisztens"]
+következetes
+konzisztens

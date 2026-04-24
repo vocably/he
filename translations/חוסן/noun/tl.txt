@@ -1,1 +1,3 @@
-["Katatagan","Lakas","Immunity"]
+Katatagan
+Lakas
+Immunity

@@ -1,1 +1,3 @@
-["ea-ea","ho tsilatsila","ho qeaqea"]
+ea-ea
+ho tsilatsila
+ho qeaqea

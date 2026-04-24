@@ -1,1 +1,3 @@
-["hafi","nko","nk'aho"]
+hafi
+nko
+nk'aho

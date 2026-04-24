@@ -1,1 +1,2 @@
-["peshoj","konsideroj"]
+peshoj
+konsideroj

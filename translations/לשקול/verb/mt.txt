@@ -1,1 +1,2 @@
-["jiżen","jikkunsidra"]
+jiżen
+jikkunsidra

@@ -1,1 +1,2 @@
-["pare-pareho","tuloy-tuloy"]
+pare-pareho
+tuloy-tuloy

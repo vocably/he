@@ -1,1 +1,3 @@
-["a neglija","a abandona","a neglija o datorie"]
+a neglija
+a abandona
+a neglija o datorie

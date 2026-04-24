@@ -1,1 +1,3 @@
-["heitto","vaikutus","projektio"]
+heitto
+vaikutus
+projektio

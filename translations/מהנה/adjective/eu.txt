@@ -1,1 +1,3 @@
-["atsegin","dibertigarri","gozagarri"]
+atsegin
+dibertigarri
+gozagarri

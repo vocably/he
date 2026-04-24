@@ -1,1 +1,3 @@
-["esanguratsu","garrantzitsu","adierazgarri"]
+esanguratsu
+garrantzitsu
+adierazgarri

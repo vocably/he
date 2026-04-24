@@ -1,1 +1,3 @@
-["especialmente","principalmente","em particular"]
+especialmente
+principalmente
+em particular

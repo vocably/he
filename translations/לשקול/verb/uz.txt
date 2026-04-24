@@ -1,1 +1,2 @@
-["tortish","o'lchamoq"]
+tortish
+o'lchamoq

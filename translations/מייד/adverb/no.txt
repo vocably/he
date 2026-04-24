@@ -1,1 +1,3 @@
-["straks","umiddelbart","med en gang"]
+straks
+umiddelbart
+med en gang

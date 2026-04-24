@@ -1,1 +1,3 @@
-["paghagis","epekto","pagpapalagay"]
+paghagis
+epekto
+pagpapalagay

@@ -1,1 +1,3 @@
-["haholo-holo","ka ho khetheha","ho feta tloaelo"]
+haholo-holo
+ka ho khetheha
+ho feta tloaelo

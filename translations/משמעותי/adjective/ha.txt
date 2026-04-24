@@ -1,1 +1,3 @@
-["Mai muhimmanci","Mai ma'ana","Mai tasiri"]
+Mai muhimmanci
+Mai ma'ana
+Mai tasiri

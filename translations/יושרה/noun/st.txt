@@ -1,1 +1,2 @@
-["botšepehi","tokafalo"]
+botšepehi
+tokafalo

@@ -1,1 +1,2 @@
-["konsek","geduerich"]
+konsek
+geduerich

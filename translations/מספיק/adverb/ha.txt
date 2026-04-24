@@ -1,1 +1,3 @@
-["isa","daidai","gwargwado"]
+isa
+daidai
+gwargwado

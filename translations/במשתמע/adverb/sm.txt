@@ -1,1 +1,2 @@
-["faasino","le tuusao"]
+faasino
+le tuusao

@@ -1,1 +1,3 @@
-["noturība","izturība","imunitāte"]
+noturība
+izturība
+imunitāte

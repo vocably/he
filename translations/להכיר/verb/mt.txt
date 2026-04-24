@@ -1,1 +1,3 @@
-["jaf","il-laqg\b\ba","jirrikonoxxi"]
+jaf
+il-laqga
+jirrikonoxxi

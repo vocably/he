@@ -1,1 +1,3 @@
-["kia mōhio","kia mātau","kia whakaae"]
+kia mōhio
+kia mātau
+kia whakaae

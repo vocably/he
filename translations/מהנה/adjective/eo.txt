@@ -1,1 +1,3 @@
-["ĝuiga","plezuriga","agrabla"]
+ĝuiga
+plezuriga
+agrabla

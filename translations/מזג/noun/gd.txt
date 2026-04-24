@@ -1,1 +1,3 @@
-["stuaim","measgachadh","sunnd"]
+stuaim
+measgachadh
+sunnd

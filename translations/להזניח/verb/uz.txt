@@ -1,1 +1,3 @@
-["e'tiborsiz qoldirmoq","mensimaslik","tashlab qo'ymoq"]
+e'tiborsiz qoldirmoq
+mensimaslik
+tashlab qo'ymoq

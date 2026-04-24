@@ -1,1 +1,3 @@
-["posebno","naročito","iznadprosječno"]
+posebno
+naročito
+iznadprosječno

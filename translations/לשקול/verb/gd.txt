@@ -1,1 +1,2 @@
-["tomhais","cnuasaich"]
+tomhais
+cnuasaich

@@ -1,1 +1,3 @@
-["nóg","nógur","fullnægjandi"]
+nóg
+nógur
+fullnægjandi

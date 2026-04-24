@@ -1,1 +1,3 @@
-["Zvichida","Pedyo","Kungofanana"]
+Zvichida
+Pedyo
+Kungofanana

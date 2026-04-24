@@ -1,1 +1,3 @@
-["pietiekami","gana","apmierinoši"]
+pietiekami
+gana
+apmierinoši

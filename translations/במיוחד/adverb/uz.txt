@@ -1,1 +1,3 @@
-["ayniqsa","xususan","ko'proq"]
+ayniqsa
+xususan
+ko'proq

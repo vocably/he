@@ -1,1 +1,3 @@
-["pelemparan","konsekuensi","proyeksi"]
+pelemparan
+konsekuensi
+proyeksi

@@ -1,1 +1,3 @@
-["Zvakakwana","Zvinokwana","Zviri pakati nepakati"]
+Zvakakwana
+Zvinokwana
+Zviri pakati nepakati

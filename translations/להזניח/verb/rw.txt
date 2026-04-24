@@ -1,1 +1,3 @@
-["kwirengagiza","kureka","kwirengagiza inshingano"]
+kwirengagiza
+kureka
+kwirengagiza inshingano

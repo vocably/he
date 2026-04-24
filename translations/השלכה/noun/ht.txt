@@ -1,1 +1,3 @@
-["konsekans","efè","projeksyon"]
+konsekans
+efè
+projeksyon

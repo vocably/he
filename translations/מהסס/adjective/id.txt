@@ -1,1 +1,3 @@
-["ragu-ragu","bimbang","tidak yakin"]
+ragu-ragu
+bimbang
+tidak yakin

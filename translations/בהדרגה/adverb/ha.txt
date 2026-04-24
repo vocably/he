@@ -1,1 +1,3 @@
-["A hankali","Mataki-mataki","Ba zato ba tsammani"]
+A hankali
+Mataki-mataki
+Ba zato ba tsammani

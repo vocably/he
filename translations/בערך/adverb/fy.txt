@@ -1,1 +1,3 @@
-["sawat","ûngefear","likernôch"]
+sawat
+ûngefear
+likernôch

@@ -1,1 +1,3 @@
-["otpornost","snaga","imunitet"]
+otpornost
+snaga
+imunitet

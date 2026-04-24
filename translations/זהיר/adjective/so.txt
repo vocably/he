@@ -1,1 +1,2 @@
-["Taxaddar","Feejigan"]
+Taxaddar
+Feejigan

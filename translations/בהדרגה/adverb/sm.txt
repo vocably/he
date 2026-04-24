@@ -1,1 +1,3 @@
-["faasolosolo","malie malie","laasaga ma lea laasaga"]
+faasolosolo
+malie malie
+laasaga ma lea laasaga

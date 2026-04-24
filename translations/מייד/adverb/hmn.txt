@@ -1,1 +1,3 @@
-["Tam sim ntawd","Sai sai","Tsis txhob ncua"]
+Tam sim ntawd
+Sai sai
+Tsis txhob ncua

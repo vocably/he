@@ -1,1 +1,3 @@
-["isimilo","ubume","imo"]
+isimilo
+ubume
+imo

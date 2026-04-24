@@ -1,1 +1,3 @@
-["hasa","kwa namna ya pekee","zaidi ya kawaida"]
+hasa
+kwa namna ya pekee
+zaidi ya kawaida

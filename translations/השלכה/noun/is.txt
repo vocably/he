@@ -1,1 +1,3 @@
-["kast","afleiðing","vörpun"]
+kast
+afleiðing
+vörpun

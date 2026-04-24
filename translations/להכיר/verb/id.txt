@@ -1,1 +1,3 @@
-["mengenal","mengetahui","mengakui"]
+mengenal
+mengetahui
+mengakui

@@ -1,1 +1,2 @@
-["svērt","apsvērt"]
+svērt
+apsvērt

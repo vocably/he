@@ -1,1 +1,3 @@
-["kekiyatan","daya tahan","imunitas"]
+kekiyatan
+daya tahan
+imunitas

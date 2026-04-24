@@ -1,1 +1,3 @@
-["pov","tua","cuam tshuam"]
+pov
+tua
+cuam tshuam

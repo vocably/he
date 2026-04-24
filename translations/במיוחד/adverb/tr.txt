@@ -1,1 +1,3 @@
-["özellikle","bilhassa","başta"]
+özellikle
+bilhassa
+başta

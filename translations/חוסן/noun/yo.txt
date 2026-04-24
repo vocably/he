@@ -1,1 +1,3 @@
-["agbara","ìfaradà","ìlera"]
+agbara
+ìfaradà
+ìlera

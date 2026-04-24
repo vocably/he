@@ -1,1 +1,3 @@
-["motståndskraft","styrka","immunitet"]
+motståndskraft
+styrka
+immunitet

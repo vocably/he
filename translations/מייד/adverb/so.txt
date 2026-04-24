@@ -1,1 +1,3 @@
-["Haddaba","Degdeg","isla markiiba"]
+Haddaba
+Degdeg
+isla markiiba

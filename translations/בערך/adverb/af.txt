@@ -1,1 +1,3 @@
-["ongeveer","omtrent","naby"]
+ongeveer
+omtrent
+naby

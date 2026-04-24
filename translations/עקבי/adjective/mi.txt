@@ -1,1 +1,2 @@
-["tutuki","pūmau"]
+tutuki
+pūmau

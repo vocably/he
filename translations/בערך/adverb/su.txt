@@ -1,1 +1,3 @@
-["kurang leuwih","kira-kira","sabudeureun"]
+kurang leuwih
+kira-kira
+sabudeureun

@@ -1,1 +1,3 @@
-["kira-kira","watara","udakara"]
+kira-kira
+watara
+udakara

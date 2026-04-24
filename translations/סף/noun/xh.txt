@@ -1,1 +1,3 @@
-["Umnyango","Umnqamlezo","Isango"]
+Umnyango
+Umnqamlezo
+Isango

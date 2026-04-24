@@ -1,1 +1,3 @@
-["pixkanaka","apurka-apurka","mailaz maila"]
+pixkanaka
+apurka-apurka
+mailaz maila

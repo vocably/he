@@ -1,1 +1,3 @@
-["gradvist","efterhånden","trin for trin"]
+gradvist
+efterhånden
+trin for trin

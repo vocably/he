@@ -1,1 +1,3 @@
-["lezzetli","ýakymly","şadyýan"]
+lezzetli
+ýakymly
+şadyýan

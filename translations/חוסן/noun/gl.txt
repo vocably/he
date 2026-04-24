@@ -1,1 +1,3 @@
-["resistencia","forza","inmunidade"]
+resistencia
+forza
+inmunidade

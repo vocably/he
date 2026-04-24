@@ -1,1 +1,3 @@
-["piisavalt","küllalt","küllaldaselt"]
+piisavalt
+küllalt
+küllaldaselt

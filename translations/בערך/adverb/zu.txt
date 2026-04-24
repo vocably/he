@@ -1,1 +1,3 @@
-["cishe","mhlawumbe","ngokulinganisa"]
+cishe
+mhlawumbe
+ngokulinganisa

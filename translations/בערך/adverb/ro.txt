@@ -1,1 +1,3 @@
-["aproximativ","cam","în jur de"]
+aproximativ
+cam
+în jur de

@@ -1,1 +1,3 @@
-["cunnosce","ricunnosce","incuntrà"]
+cunnosce
+ricunnosce
+incuntrà

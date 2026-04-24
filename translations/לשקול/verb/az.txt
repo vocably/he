@@ -1,1 +1,2 @@
-["çəkmək","nəzərdən keçirmək"]
+çəkmək
+nəzərdən keçirmək

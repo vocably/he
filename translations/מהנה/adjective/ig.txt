@@ -1,1 +1,3 @@
-["na-atọ ụtọ","na-enye ọṅụ","dị mma"]
+na-atọ ụtọ
+na-enye ọṅụ
+dị mma

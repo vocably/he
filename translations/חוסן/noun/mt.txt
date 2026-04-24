@@ -1,1 +1,3 @@
-["Reżiljenza","Saħħa","Immunità"]
+Reżiljenza
+Saħħa
+Immunità

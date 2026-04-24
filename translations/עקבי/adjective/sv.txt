@@ -1,1 +1,2 @@
-["konsekvent","uthållig"]
+konsekvent
+uthållig

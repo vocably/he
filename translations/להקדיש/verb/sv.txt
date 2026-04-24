@@ -1,1 +1,3 @@
-["ägnar","tillägnar","helgar"]
+ägnar
+tillägnar
+helgar

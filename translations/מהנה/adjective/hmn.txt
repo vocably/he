@@ -1,1 +1,3 @@
-["lom zem","zoo siab","kaj siab"]
+lom zem
+zoo siab
+kaj siab

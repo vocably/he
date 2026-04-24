@@ -1,1 +1,3 @@
-["próg","granica","krawędź"]
+próg
+granica
+krawędź

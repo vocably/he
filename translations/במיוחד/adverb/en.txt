@@ -1,1 +1,3 @@
-["especially","particularly","mainly"]
+especially
+particularly
+mainly

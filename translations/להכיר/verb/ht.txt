@@ -1,1 +1,3 @@
-["konnen","rekonèt","fè konesans"]
+konnen
+rekonèt
+fè konesans

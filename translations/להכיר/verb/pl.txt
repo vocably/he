@@ -1,1 +1,3 @@
-["znać","poznać","uznać"]
+znać
+poznać
+uznać

@@ -1,1 +1,3 @@
-["sufiĉe","sufiĉe da","en sufiĉa kvanto"]
+sufiĉe
+sufiĉe da
+en sufiĉa kvanto

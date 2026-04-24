@@ -1,1 +1,3 @@
-["Oston","Chegara","Boshlanish"]
+Oston
+Chegara
+Boshlanish

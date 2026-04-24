@@ -1,1 +1,3 @@
-["tlachdmhor","taitneach","aoibhneach"]
+tlachdmhor
+taitneach
+aoibhneach

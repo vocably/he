@@ -1,1 +1,3 @@
-["subito","immediatamente","all'istante"]
+subito
+immediatamente
+all'istante

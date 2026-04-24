@@ -1,1 +1,3 @@
-["to know","to meet","to recognize"]
+to know
+to meet
+to recognize

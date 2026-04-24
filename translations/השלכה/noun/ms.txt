@@ -1,1 +1,3 @@
-["kesan","implikasi","unjuran"]
+kesan
+implikasi
+unjuran

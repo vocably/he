@@ -1,1 +1,3 @@
-["tərəddüd edən","qərarsız","şübhə edən"]
+tərəddüd edən
+qərarsız
+şübhə edən

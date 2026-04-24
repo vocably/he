@@ -1,1 +1,3 @@
-["yaklaşık","aşağı yukarı","takriben"]
+yaklaşık
+aşağı yukarı
+takriben

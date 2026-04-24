@@ -1,1 +1,3 @@
-["laqeyd yanaşmaq","ətinasızlıq etmək","boş vermək"]
+laqeyd yanaşmaq
+ətinasızlıq etmək
+boş vermək

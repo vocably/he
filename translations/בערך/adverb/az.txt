@@ -1,1 +1,3 @@
-["təqribən","təxminən","hardasa"]
+təqribən
+təxminən
+hardasa

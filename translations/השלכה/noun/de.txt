@@ -1,1 +1,3 @@
-["Auswirkung","Projektion","Wurf"]
+Auswirkung
+Projektion
+Wurf

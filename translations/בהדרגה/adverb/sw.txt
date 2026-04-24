@@ -1,1 +1,3 @@
-["hatua kwa hatua","polepole","kidogokidogo"]
+hatua kwa hatua
+polepole
+kidogokidogo

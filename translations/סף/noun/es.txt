@@ -1,1 +1,3 @@
-["umbral","entrada","límite"]
+umbral
+entrada
+límite

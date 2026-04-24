@@ -1,1 +1,3 @@
-["tính khí","tâm trạng","tính cách"]
+tính khí
+tâm trạng
+tính cách

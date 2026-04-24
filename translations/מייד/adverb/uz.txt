@@ -1,1 +1,3 @@
-["darhol","tezda","bir zumda"]
+darhol
+tezda
+bir zumda

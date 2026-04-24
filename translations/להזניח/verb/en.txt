@@ -1,1 +1,3 @@
-["neglect","abandon","ignore"]
+neglect
+abandon
+ignore

@@ -1,1 +1,3 @@
-["assez","suffisamment","en quantité suffisante"]
+assez
+suffisamment
+en quantité suffisante

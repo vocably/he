@@ -1,1 +1,3 @@
-["mjaft","sa duhet","aq sa mjafton"]
+mjaft
+sa duhet
+aq sa mjafton

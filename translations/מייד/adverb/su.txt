@@ -1,1 +1,3 @@
-["Enggal","Gancang","Burudul"]
+Enggal
+Gancang
+Burudul

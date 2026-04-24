@@ -1,1 +1,3 @@
-["dovolj","zadosti","zadostno"]
+dovolj
+zadosti
+zadostno

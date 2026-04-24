@@ -1,1 +1,2 @@
-["kaudselt","implitsiitselt"]
+kaudselt
+implitsiitselt

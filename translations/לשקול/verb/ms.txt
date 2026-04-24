@@ -1,1 +1,2 @@
-["menimbang","mempertimbangkan"]
+menimbang
+mempertimbangkan

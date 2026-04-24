@@ -1,1 +1,3 @@
-["kupereka","kuyamikira","kuyeretsa"]
+kupereka
+kuyamikira
+kuyeretsa

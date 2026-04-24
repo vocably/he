@@ -1,1 +1,3 @@
-["nølende","ubeslutsom","vaklende"]
+nølende
+ubeslutsom
+vaklende

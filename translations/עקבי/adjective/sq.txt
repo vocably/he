@@ -1,1 +1,2 @@
-["konsistent","i vazhdueshëm"]
+konsistent
+i vazhdueshëm

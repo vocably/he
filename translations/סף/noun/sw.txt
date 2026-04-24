@@ -1,1 +1,3 @@
-["Kizingiti","Mlangokati","Ukingo"]
+Kizingiti
+Mlangokati
+Ukingo

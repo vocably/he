@@ -1,1 +1,3 @@
-["temperamento","umore","indole"]
+temperamento
+umore
+indole

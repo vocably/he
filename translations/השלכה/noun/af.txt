@@ -1,1 +1,3 @@
-["projeksie","gevolg","impak"]
+projeksie
+gevolg
+impak

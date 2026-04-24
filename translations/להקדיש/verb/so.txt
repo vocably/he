@@ -1,1 +1,3 @@
-["U huray","U go'ay","U hibayn"]
+U huray
+U go'ay
+U hibayn

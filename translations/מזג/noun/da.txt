@@ -1,1 +1,3 @@
-["humør","sind","temperament"]
+humør
+sind
+temperament

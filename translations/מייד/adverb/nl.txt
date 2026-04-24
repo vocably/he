@@ -1,1 +1,3 @@
-["onmiddellijk","meteen","direct"]
+onmiddellijk
+meteen
+direct

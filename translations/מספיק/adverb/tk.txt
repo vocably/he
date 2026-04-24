@@ -1,1 +1,3 @@
-["ýeterlik","ýeterli","bes"]
+ýeterlik
+ýeterli
+bes

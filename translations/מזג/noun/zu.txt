@@ -1,1 +1,3 @@
-["Isimilo","Umlingiswa","Ukuziphatha"]
+Isimilo
+Umlingiswa
+Ukuziphatha

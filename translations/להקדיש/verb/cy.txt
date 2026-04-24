@@ -1,1 +1,3 @@
-["neilltuo","cysegro","puro"]
+neilltuo
+cysegro
+puro

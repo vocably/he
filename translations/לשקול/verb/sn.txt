@@ -1,1 +1,2 @@
-["kuyera","kuongorora"]
+kuyera
+kuongorora

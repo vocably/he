@@ -1,1 +1,2 @@
-["Gofalus","Rhybuddiol"]
+Gofalus
+Rhybuddiol

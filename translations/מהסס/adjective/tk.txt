@@ -1,1 +1,3 @@
-["ikirjiňli","şübheli","ýekeseýil"]
+ikirjiňli
+şübheli
+ýekeseýil

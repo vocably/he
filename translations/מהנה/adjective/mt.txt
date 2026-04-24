@@ -1,1 +1,3 @@
-["pjaċevoli","divertenti","ta' gost"]
+pjaċevoli
+divertenti
+ta' gost

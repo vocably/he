@@ -1,1 +1,3 @@
-["Ubukomere","Imbaraga","Umuhati"]
+Ubukomere
+Imbaraga
+Umuhati

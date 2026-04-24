@@ -1,1 +1,3 @@
-["tillräckligt","nog","i tillräcklig mängd"]
+tillräckligt
+nog
+i tillräcklig mängd

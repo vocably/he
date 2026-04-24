@@ -1,1 +1,2 @@
-["nhất quán","kiên định"]
+nhất quán
+kiên định

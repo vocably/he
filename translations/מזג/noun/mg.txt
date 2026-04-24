@@ -1,1 +1,3 @@
-["toetra","fahar","toe-tsaina"]
+toetra
+fahar
+toe-tsaina

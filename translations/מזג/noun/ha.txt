@@ -1,1 +1,3 @@
-["hali","yanayi","ruhi"]
+hali
+yanayi
+ruhi

@@ -1,1 +1,3 @@
-["Saeutik-saeutik","Alon-alon","Bertahap"]
+Saeutik-saeutik
+Alon-alon
+Bertahap

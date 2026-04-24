@@ -1,1 +1,2 @@
-["auna","yi la'akari"]
+auna
+yi la'akari

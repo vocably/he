@@ -1,1 +1,3 @@
-["ongabazayo","ongaqiniseki","ongenanhloso"]
+ongabazayo
+ongaqiniseki
+ongenanhloso

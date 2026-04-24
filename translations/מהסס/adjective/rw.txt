@@ -1,1 +1,3 @@
-["Zuyaza","Kuzuyaza","Gushidikanya"]
+Zuyaza
+Kuzuyaza
+Gushidikanya

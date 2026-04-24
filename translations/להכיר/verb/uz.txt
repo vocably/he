@@ -1,1 +1,3 @@
-["tanimoq","bilmoq","e'tirof etmoq"]
+tanimoq
+bilmoq
+e'tirof etmoq

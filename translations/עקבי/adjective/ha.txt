@@ -1,1 +1,2 @@
-["daidaita","tsayayye"]
+daidaita
+tsayayye

@@ -1,1 +1,3 @@
-["zanedbať","opustiť","zľahostajnieť"]
+zanedbať
+opustiť
+zľahostajnieť

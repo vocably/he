@@ -1,1 +1,2 @@
-["wegen","overwegen"]
+wegen
+overwegen

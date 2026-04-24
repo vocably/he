@@ -1,1 +1,3 @@
-["neglije","lage","blakawout"]
+neglije
+lage
+blakawout

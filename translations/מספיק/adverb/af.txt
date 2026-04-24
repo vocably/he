@@ -1,1 +1,3 @@
-["genoeg","voldoende","redelik"]
+genoeg
+voldoende
+redelik

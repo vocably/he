@@ -1,1 +1,3 @@
-["umore","temperamentu","caratteru"]
+umore
+temperamentu
+caratteru

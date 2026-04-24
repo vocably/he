@@ -1,1 +1,3 @@
-["malosi","onosa'i","puipuiga"]
+malosi
+onosa'i
+puipuiga

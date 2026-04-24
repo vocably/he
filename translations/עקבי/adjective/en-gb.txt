@@ -1,1 +1,2 @@
-["consistent","persistent"]
+consistent
+persistent

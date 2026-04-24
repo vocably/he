@@ -1,1 +1,2 @@
-["kuwona mtima","umboni"]
+kuwona mtima
+umboni

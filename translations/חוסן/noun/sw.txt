@@ -1,1 +1,3 @@
-["Uimara","Nguvu","Kinga"]
+Uimara
+Nguvu
+Kinga

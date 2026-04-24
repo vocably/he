@@ -1,1 +1,2 @@
-["konsequent","beständig"]
+konsequent
+beständig

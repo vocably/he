@@ -1,1 +1,2 @@
-["tsitsintswana","sa kamehla"]
+tsitsintswana
+sa kamehla

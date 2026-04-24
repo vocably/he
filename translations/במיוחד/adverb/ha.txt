@@ -1,1 +1,3 @@
-["Musamman","Na musamman","Fiye da yadda aka saba"]
+Musamman
+Na musamman
+Fiye da yadda aka saba

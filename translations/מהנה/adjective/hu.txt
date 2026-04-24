@@ -1,1 +1,3 @@
-["élvezetes","kellemes","örömteli"]
+élvezetes
+kellemes
+örömteli

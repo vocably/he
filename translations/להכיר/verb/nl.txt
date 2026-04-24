@@ -1,1 +1,3 @@
-["kennen","ontmoeten","erkennen"]
+kennen
+ontmoeten
+erkennen

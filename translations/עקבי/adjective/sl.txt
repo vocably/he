@@ -1,1 +1,2 @@
-["dosleden","konsistenten"]
+dosleden
+konsistenten

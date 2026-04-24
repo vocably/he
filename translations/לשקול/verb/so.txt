@@ -1,1 +1,2 @@
-["Miisaan","Ka fiirso"]
+Miisaan
+Ka fiirso

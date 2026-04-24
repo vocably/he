@@ -1,1 +1,3 @@
-["destul","suficient","îndeajuns"]
+destul
+suficient
+îndeajuns

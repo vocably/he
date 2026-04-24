@@ -1,1 +1,3 @@
-["agreab","amizan","plezan"]
+agreab
+amizan
+plezan

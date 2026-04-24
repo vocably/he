@@ -1,1 +1,3 @@
-["gradualmente","a poco a poco","a gradi"]
+gradualmente
+a poco a poco
+a gradi

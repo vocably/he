@@ -1,1 +1,3 @@
-["zevkli","keyifli","eğlenceli"]
+zevkli
+keyifli
+eğlenceli

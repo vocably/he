@@ -1,1 +1,2 @@
-["Joogto ah","Deggan"]
+Joogto ah
+Deggan

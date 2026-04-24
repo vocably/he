@@ -1,1 +1,3 @@
-["vetés","következmény","projekció"]
+vetés
+következmény
+projekció

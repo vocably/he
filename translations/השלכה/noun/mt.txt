@@ -1,1 +1,3 @@
-["tfigħ","konsegwenza","projezzjoni"]
+tfigħ
+konsegwenza
+projezzjoni

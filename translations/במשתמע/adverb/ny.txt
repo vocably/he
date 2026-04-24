@@ -1,1 +1,2 @@
-["mwachindunji","mwachinsinsi"]
+mwachindunji
+mwachinsinsi

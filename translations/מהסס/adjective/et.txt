@@ -1,1 +1,3 @@
-["kõhklev","ebakindel","otsustusvõimetu"]
+kõhklev
+ebakindel
+otsustusvõimetu

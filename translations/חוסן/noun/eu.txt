@@ -1,1 +1,3 @@
-["erresistentzia","sendotasun","immunitate"]
+erresistentzia
+sendotasun
+immunitate

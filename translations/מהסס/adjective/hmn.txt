@@ -1,1 +1,3 @@
-["tsis paub meej","doog","tsis txiav txim siab"]
+tsis paub meej
+doog
+tsis txiav txim siab

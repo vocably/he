@@ -1,1 +1,3 @@
-["mengabaikan","mengalpakan","melalaikan"]
+mengabaikan
+mengalpakan
+melalaikan

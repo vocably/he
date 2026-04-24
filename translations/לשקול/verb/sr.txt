@@ -1,1 +1,2 @@
-["meriti","razmotriti"]
+meriti
+razmotriti

@@ -1,1 +1,3 @@
-["mengenali","berkenalan","mengakui"]
+mengenali
+berkenalan
+mengakui

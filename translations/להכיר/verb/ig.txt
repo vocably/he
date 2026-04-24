@@ -1,1 +1,3 @@
-["ịmara","ịmata","ịnakwere"]
+ịmara
+ịmata
+ịnakwere

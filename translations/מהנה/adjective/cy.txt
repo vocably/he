@@ -1,1 +1,3 @@
-["difyr","pleserus","dedwydd"]
+difyr
+pleserus
+dedwydd

@@ -1,1 +1,3 @@
-["malonus","džiaugsmingas","pramoginis"]
+malonus
+džiaugsmingas
+pramoginis

@@ -1,1 +1,3 @@
-["zvláště","hlavně","zejména"]
+zvláště
+hlavně
+zejména

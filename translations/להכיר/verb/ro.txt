@@ -1,1 +1,3 @@
-["a cunoaște","a recunoaște","a face cunoștință"]
+a cunoaște
+a recunoaște
+a face cunoștință

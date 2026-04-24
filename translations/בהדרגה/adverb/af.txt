@@ -1,1 +1,3 @@
-["geleidelik","stapsgewys","bietjie vir bietjie"]
+geleidelik
+stapsgewys
+bietjie vir bietjie

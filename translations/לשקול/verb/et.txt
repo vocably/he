@@ -1,1 +1,2 @@
-["kaaluma","mõõtma"]
+kaaluma
+mõõtma

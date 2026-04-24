@@ -1,1 +1,3 @@
-["agréable","plaisant","joyeux"]
+agréable
+plaisant
+joyeux

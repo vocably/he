@@ -1,1 +1,3 @@
-["aproximadament","si fa no fa","al voltant de"]
+aproximadament
+si fa no fa
+al voltant de

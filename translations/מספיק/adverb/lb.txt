@@ -1,1 +1,3 @@
-["genuch","duerchaus","zimlech"]
+genuch
+duerchaus
+zimlech

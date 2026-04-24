@@ -1,1 +1,3 @@
-["dovoljno","dosta","zadovoljavajuće"]
+dovoljno
+dosta
+zadovoljavajuće

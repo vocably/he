@@ -1,1 +1,2 @@
-["wonse","mozama"]
+wonse
+mozama

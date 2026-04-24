@@ -1,1 +1,3 @@
-["astana","hədd","qapı kandarı"]
+astana
+hədd
+qapı kandarı

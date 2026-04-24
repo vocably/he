@@ -1,1 +1,2 @@
-["byose","kuzenguruka"]
+byose
+kuzenguruka

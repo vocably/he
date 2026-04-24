@@ -1,1 +1,3 @@
-["genotvol","plesierig","vermaaklik"]
+genotvol
+plesierig
+vermaaklik

@@ -1,1 +1,3 @@
-["atsparumas","ištvermė","stiprybė"]
+atsparumas
+ištvermė
+stiprybė

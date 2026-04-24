@@ -1,1 +1,3 @@
-["kokoke","aneane","ma kahi o"]
+kokoke
+aneane
+ma kahi o

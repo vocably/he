@@ -1,1 +1,2 @@
-["sverti","apsvarstyti"]
+sverti
+apsvarstyti

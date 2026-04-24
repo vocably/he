@@ -1,1 +1,2 @@
-["pesi","konsideri"]
+pesi
+konsideri

@@ -1,1 +1,3 @@
-["Hunhu","Maitiro","Mamiriro"]
+Hunhu
+Maitiro
+Mamiriro

@@ -1,1 +1,2 @@
-["timbangin","pag-isipan"]
+timbangin
+pag-isipan

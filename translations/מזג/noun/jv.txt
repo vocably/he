@@ -1,1 +1,3 @@
-["watak","sipat","swasana"]
+watak
+sipat
+swasana

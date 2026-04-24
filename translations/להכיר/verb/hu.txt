@@ -1,1 +1,3 @@
-["ismerni","találkozni","elismerni"]
+ismerni
+találkozni
+elismerni

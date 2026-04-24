@@ -1,1 +1,2 @@
-["to weigh","to consider"]
+to weigh
+to consider

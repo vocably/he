@@ -1,1 +1,3 @@
-["kānalua","hoʻokaʻulua","lapuwale"]
+kānalua
+hoʻokaʻulua
+lapuwale

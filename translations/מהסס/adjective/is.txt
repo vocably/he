@@ -1,1 +1,3 @@
-["hikandi","óákveðinn","óstöðugur"]
+hikandi
+óákveðinn
+óstöðugur

@@ -1,1 +1,3 @@
-["kennen","erkennen","begréissen"]
+kennen
+erkennen
+begréissen

@@ -1,1 +1,2 @@
-["kapsamlı","çevreleyen"]
+kapsamlı
+çevreleyen

@@ -1,1 +1,3 @@
-["ongeveer","rond","circa"]
+ongeveer
+rond
+circa

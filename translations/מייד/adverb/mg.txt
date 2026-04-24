@@ -1,1 +1,3 @@
-["Avy hatrany","Tsy misy hatak'andro","Vetivety"]
+Avy hatrany
+Tsy misy hatak'andro
+Vetivety

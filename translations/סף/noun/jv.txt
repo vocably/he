@@ -1,1 +1,3 @@
-["lawang","wates","wiwitan"]
+lawang
+wates
+wiwitan

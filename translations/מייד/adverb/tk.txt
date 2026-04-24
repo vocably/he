@@ -1,1 +1,3 @@
-["derrew","hälä","çalt"]
+derrew
+hälä
+çalt

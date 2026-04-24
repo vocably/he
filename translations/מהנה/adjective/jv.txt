@@ -1,1 +1,3 @@
-["nyenengake","gawe seneng","nglipur"]
+nyenengake
+gawe seneng
+nglipur

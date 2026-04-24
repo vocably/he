@@ -1,1 +1,3 @@
-["posebno","naročito","iznad svega"]
+posebno
+naročito
+iznad svega

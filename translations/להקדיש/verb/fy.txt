@@ -1,1 +1,3 @@
-["tawize","hilligje","wije"]
+tawize
+hilligje
+wije

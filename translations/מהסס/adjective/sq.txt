@@ -1,1 +1,3 @@
-["hezigant","i pavendosur","dyshimtar"]
+hezigant
+i pavendosur
+dyshimtar

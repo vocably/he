@@ -1,1 +1,3 @@
-["biết","nhận ra","công nhận"]
+biết
+nhận ra
+công nhận

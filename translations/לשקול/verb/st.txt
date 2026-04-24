@@ -1,1 +1,2 @@
-["ho lekanya","ho nahana"]
+ho lekanya
+ho nahana

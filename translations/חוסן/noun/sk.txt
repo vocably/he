@@ -1,1 +1,3 @@
-["odolnosť","sila","imunita"]
+odolnosť
+sila
+imunita

@@ -1,1 +1,3 @@
-["straks","øjeblikkeligt","med det samme"]
+straks
+øjeblikkeligt
+med det samme

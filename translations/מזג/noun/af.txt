@@ -1,1 +1,3 @@
-["geaardheid","temperament","bui"]
+geaardheid
+temperament
+bui

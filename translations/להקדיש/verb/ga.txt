@@ -1,1 +1,3 @@
-["tiomnadh","coisreacan","tabhair ómós do"]
+tiomnadh
+coisreacan
+tabhair ómós do

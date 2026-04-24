@@ -1,1 +1,3 @@
-["okujabulisayo","okumnandi","okuthokozisayo"]
+okujabulisayo
+okumnandi
+okuthokozisayo

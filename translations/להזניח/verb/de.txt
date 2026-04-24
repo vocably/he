@@ -1,1 +1,3 @@
-["vernachlässigen","verwahrlosen","unterlassen"]
+vernachlässigen
+verwahrlosen
+unterlassen

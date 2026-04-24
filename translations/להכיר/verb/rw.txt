@@ -1,1 +1,3 @@
-["kumenya","guhura","kwemera"]
+kumenya
+guhura
+kwemera

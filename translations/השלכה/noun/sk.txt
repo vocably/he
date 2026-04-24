@@ -1,1 +1,3 @@
-["hodenie","dôsledok","premietanie"]
+hodenie
+dôsledok
+premietanie

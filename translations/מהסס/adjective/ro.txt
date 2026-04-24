@@ -1,1 +1,3 @@
-["ezitant","nehotărât","șovăielnic"]
+ezitant
+nehotărât
+șovăielnic

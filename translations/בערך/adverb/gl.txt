@@ -1,1 +1,3 @@
-["aproximadamente","cerca","arredor"]
+aproximadamente
+cerca
+arredor

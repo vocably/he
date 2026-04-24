@@ -1,1 +1,3 @@
-["secara bertahap","berangsur-angsur","sedikit demi sedikit"]
+secara bertahap
+berangsur-angsur
+sedikit demi sedikit

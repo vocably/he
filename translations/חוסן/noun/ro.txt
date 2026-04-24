@@ -1,1 +1,3 @@
-["rezistență","imunitate","fortă"]
+rezistență
+imunitate
+fortă

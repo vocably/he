@@ -1,1 +1,3 @@
-["mamello","matla","tsireletso"]
+mamello
+matla
+tsireletso

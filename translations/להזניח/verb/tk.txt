@@ -1,1 +1,3 @@
-["ähli ünsüni sowmak","üns bermezlik","ýaltalyk etmek"]
+ähli ünsüni sowmak
+üns bermezlik
+ýaltalyk etmek

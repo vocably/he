@@ -1,1 +1,3 @@
-["Tuurista","Saameyn","Ujeedin"]
+Tuurista
+Saameyn
+Ujeedin

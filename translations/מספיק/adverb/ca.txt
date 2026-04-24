@@ -1,1 +1,3 @@
-["prou","suficientment","bastant"]
+prou
+suficientment
+bastant

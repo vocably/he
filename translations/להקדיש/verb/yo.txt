@@ -1,1 +1,3 @@
-["Ya fi ara rẹ fun","Ya sọtọ","Ya si mimọ"]
+Ya fi ara rẹ fun
+Ya sọtọ
+Ya si mimọ

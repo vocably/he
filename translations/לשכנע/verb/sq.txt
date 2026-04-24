@@ -1,1 +1,2 @@
-["bind","bëj të besoj"]
+bind
+bëj të besoj

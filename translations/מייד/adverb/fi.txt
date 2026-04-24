@@ -1,1 +1,3 @@
-["heti","välittömästi","oikopäätä"]
+heti
+välittömästi
+oikopäätä

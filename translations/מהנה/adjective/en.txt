@@ -1,1 +1,3 @@
-["enjoyable","pleasant","fun"]
+enjoyable
+pleasant
+fun

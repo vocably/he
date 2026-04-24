@@ -1,1 +1,2 @@
-["cân","cân nhắc"]
+cân
+cân nhắc

@@ -1,1 +1,2 @@
-["Əhatəli","Geniş"]
+Əhatəli
+Geniş

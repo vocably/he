@@ -1,1 +1,3 @@
-["llançament","conseqüència","projecció"]
+llançament
+conseqüència
+projecció

@@ -1,1 +1,2 @@
-["gbogbo","yika"]
+gbogbo
+yika

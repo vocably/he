@@ -1,1 +1,3 @@
-["iseloom","tuju","temperament"]
+iseloom
+tuju
+temperament

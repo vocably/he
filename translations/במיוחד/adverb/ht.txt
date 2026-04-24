@@ -1,1 +1,3 @@
-["sitou","espesyalman","plis pase dabitid"]
+sitou
+espesyalman
+plis pase dabitid

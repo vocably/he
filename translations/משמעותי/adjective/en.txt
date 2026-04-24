@@ -1,1 +1,3 @@
-["significant","meaningful","important"]
+significant
+meaningful
+important

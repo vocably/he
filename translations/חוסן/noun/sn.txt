@@ -1,1 +1,3 @@
-["kusimba","simba","hushoma"]
+kusimba
+simba
+hushoma

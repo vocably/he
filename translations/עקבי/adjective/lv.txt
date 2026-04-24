@@ -1,1 +1,2 @@
-["konsekvents","vienveidīgs"]
+konsekvents
+vienveidīgs

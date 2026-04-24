@@ -1,1 +1,3 @@
-["Faharetana","Hery","Fiarovana"]
+Faharetana
+Hery
+Fiarovana

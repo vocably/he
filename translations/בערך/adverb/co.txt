@@ -1,1 +1,3 @@
-["circa","à pocu pressu","quasi"]
+circa
+à pocu pressu
+quasi

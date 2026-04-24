@@ -1,1 +1,3 @@
-["qëndrueshmëri","rezistencë","imunitet"]
+qëndrueshmëri
+rezistencë
+imunitet

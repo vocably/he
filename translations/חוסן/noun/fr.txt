@@ -1,1 +1,3 @@
-["résilience","immunité","force"]
+résilience
+immunité
+force

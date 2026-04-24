@@ -1,1 +1,3 @@
-["indeciso","vacilante","dubitativo"]
+indeciso
+vacilante
+dubitativo

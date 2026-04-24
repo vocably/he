@@ -1,1 +1,3 @@
-["aard","temperamint","sin"]
+aard
+temperamint
+sin

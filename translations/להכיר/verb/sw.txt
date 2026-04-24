@@ -1,1 +1,3 @@
-["kujua","kutambua","kukiri"]
+kujua
+kutambua
+kukiri

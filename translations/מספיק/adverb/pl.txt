@@ -1,1 +1,3 @@
-["wystarczająco","dość","wystarczająco dużo"]
+wystarczająco
+dość
+wystarczająco dużo

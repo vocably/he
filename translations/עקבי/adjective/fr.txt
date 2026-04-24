@@ -1,1 +1,2 @@
-["cohérent","conséquent"]
+cohérent
+conséquent

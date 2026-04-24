@@ -1,1 +1,3 @@
-["ukuphonsa","umphumela","ukubeka"]
+ukuphonsa
+umphumela
+ukubeka

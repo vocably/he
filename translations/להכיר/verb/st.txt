@@ -1,1 +1,3 @@
-["ho tseba","ho kopana le","ho ananela"]
+ho tseba
+ho kopana le
+ho ananela

@@ -1,1 +1,2 @@
-["omfattende","omkringliggende"]
+omfattende
+omkringliggende

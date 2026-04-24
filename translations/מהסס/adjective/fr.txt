@@ -1,1 +1,3 @@
-["hésitant","indécis","perplexe"]
+hésitant
+indécis
+perplexe

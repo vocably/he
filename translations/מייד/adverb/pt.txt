@@ -1,1 +1,3 @@
-["imediatamente","já","agora mesmo"]
+imediatamente
+já
+agora mesmo

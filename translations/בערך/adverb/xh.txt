@@ -1,1 +1,3 @@
-["malunga","phantse","ngokubanzi"]
+malunga
+phantse
+ngokubanzi

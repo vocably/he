@@ -1,1 +1,3 @@
-["ugodan","zabavan","lijep"]
+ugodan
+zabavan
+lijep

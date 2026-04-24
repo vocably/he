@@ -1,1 +1,2 @@
-["ważyć","rozważać"]
+ważyć
+rozważać

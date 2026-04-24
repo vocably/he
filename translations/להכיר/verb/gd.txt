@@ -1,1 +1,3 @@
-["aithneachadh","eòlas","aideachadh"]
+aithneachadh
+eòlas
+aideachadh

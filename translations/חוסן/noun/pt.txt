@@ -1,1 +1,3 @@
-["resiliência","robustez","imunidade"]
+resiliência
+robustez
+imunidade

@@ -1,1 +1,3 @@
-["ongeféier","ronn","zirka"]
+ongeféier
+ronn
+zirka

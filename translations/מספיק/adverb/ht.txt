@@ -1,1 +1,3 @@
-["ase","sifizam","ase byen"]
+ase
+sifizam
+ase byen

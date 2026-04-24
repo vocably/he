@@ -1,1 +1,3 @@
-["å kjenne","å møte","å anerkjenne"]
+å kjenne
+å møte
+å anerkjenne

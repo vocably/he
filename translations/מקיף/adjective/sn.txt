@@ -1,1 +1,2 @@
-["zvakakwana","yakakura"]
+zvakakwana
+yakakura

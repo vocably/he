@@ -1,1 +1,3 @@
-["mean air a' cheum","mean air cheum","mean air a' cheum-cheum"]
+mean air a' cheum
+mean air cheum
+mean air a' cheum-cheum

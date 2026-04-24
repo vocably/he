@@ -1,1 +1,3 @@
-["dözümlülük","möhkəmlik","immunitet"]
+dözümlülük
+möhkəmlik
+immunitet

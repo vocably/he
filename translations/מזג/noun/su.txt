@@ -1,1 +1,3 @@
-["Sifat","Watek","Hawa"]
+Sifat
+Watek
+Hawa

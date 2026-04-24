@@ -1,1 +1,3 @@
-["cirka","omtrent","rundt regnet"]
+cirka
+omtrent
+rundt regnet

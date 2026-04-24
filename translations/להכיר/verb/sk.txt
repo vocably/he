@@ -1,1 +1,5 @@
-["pozna\\u0165","spozna\n\\u0165","uzna\n\\u0165"]
+pozna\u0165
+spozna
+\u0165
+uzna
+\u0165

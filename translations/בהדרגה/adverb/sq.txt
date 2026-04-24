@@ -1,1 +1,3 @@
-["gradualisht","dalëngadalë","hap pas hapi"]
+gradualisht
+dalëngadalë
+hap pas hapi

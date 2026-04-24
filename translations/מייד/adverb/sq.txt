@@ -1,1 +1,3 @@
-["menjëherë","pa vonesë","në çast"]
+menjëherë
+pa vonesë
+në çast

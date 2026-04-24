@@ -1,1 +1,3 @@
-["fòs","rezistans","iminite"]
+fòs
+rezistans
+iminite

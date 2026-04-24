@@ -1,1 +1,3 @@
-["otish","natija","proyeksiya"]
+otish
+natija
+proyeksiya

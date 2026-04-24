@@ -1,1 +1,3 @@
-["abbastanza","sufficientemente","a sufficienza"]
+abbastanza
+sufficientemente
+a sufficienza

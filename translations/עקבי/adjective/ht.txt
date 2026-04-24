@@ -1,1 +1,2 @@
-["konstan","ki lojik"]
+konstan
+ki lojik

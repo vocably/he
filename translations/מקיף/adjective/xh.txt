@@ -1,1 +1,2 @@
-["ibanzi","ngokubanzi"]
+ibanzi
+ngokubanzi

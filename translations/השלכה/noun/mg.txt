@@ -1,1 +1,3 @@
-["fitorahana","vokany","fiheverana"]
+fitorahana
+vokany
+fiheverana

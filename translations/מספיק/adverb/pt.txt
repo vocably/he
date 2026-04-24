@@ -1,1 +1,3 @@
-["suficientemente","o bastante","bastante"]
+suficientemente
+o bastante
+bastante

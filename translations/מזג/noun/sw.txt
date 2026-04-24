@@ -1,1 +1,3 @@
-["tabia","hali","mchanganyiko"]
+tabia
+hali
+mchanganyiko

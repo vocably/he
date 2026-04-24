@@ -1,1 +1,3 @@
-["bosaga","gapynyň öňi","eşik"]
+bosaga
+gapynyň öňi
+eşik

@@ -1,1 +1,3 @@
-["Zvinoreva","Zvinokosha","Zvine simba"]
+Zvinoreva
+Zvinokosha
+Zvine simba

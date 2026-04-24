@@ -1,1 +1,3 @@
-["Sapat","Tama","Sapat na"]
+Sapat
+Tama
+Sapat na

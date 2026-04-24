@@ -1,1 +1,3 @@
-["plezierig","aangenaam","leuk"]
+plezierig
+aangenaam
+leuk

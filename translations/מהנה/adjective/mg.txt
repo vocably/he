@@ -1,1 +1,3 @@
-["mahafinaritra","mahafaly","mankafy"]
+mahafinaritra
+mahafaly
+mankafy

@@ -1,1 +1,3 @@
-["Aladun","Didun","Igbafunni"]
+Aladun
+Didun
+Igbafunni

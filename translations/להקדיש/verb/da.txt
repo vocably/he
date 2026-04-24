@@ -1,1 +1,3 @@
-["at afsætte","at dedikere","at indvie"]
+at afsætte
+at dedikere
+at indvie

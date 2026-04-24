@@ -1,1 +1,3 @@
-["olonwabo","mnandi","onwabile"]
+olonwabo
+mnandi
+onwabile

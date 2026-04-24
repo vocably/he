@@ -1,1 +1,3 @@
-["zabavan","prijatan","ugodan"]
+zabavan
+prijatan
+ugodan

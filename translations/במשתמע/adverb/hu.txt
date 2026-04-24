@@ -1,1 +1,2 @@
-["hallgatólagosan","közvetve"]
+hallgatólagosan
+közvetve

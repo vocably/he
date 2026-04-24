@@ -1,1 +1,3 @@
-["nag-aalangan","atubili","walang katiyakan"]
+nag-aalangan
+atubili
+walang katiyakan

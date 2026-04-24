@@ -1,1 +1,2 @@
-["ukulinganisa","ukucabanga"]
+ukulinganisa
+ukucabanga

@@ -1,1 +1,3 @@
-["tereddütlü","kararsız","çekingen"]
+tereddütlü
+kararsız
+çekingen

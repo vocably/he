@@ -1,1 +1,3 @@
-["ukwazi","ukuhlangana","ukuvuma"]
+ukwazi
+ukuhlangana
+ukuvuma

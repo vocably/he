@@ -1,1 +1,3 @@
-["makabuluhan","mahalaga","makapangyarihan"]
+makabuluhan
+mahalaga
+makapangyarihan

@@ -1,1 +1,3 @@
-["perangai","campuran","suasana hati"]
+perangai
+campuran
+suasana hati

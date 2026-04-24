@@ -1,1 +1,2 @@
-["weien","ofweien"]
+weien
+ofweien

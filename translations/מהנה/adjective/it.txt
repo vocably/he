@@ -1,1 +1,3 @@
-["piacevole","divertente","gradevole"]
+piacevole
+divertente
+gradevole

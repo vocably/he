@@ -1,1 +1,3 @@
-["adamak","tahsis etmek","ithaf etmek"]
+adamak
+tahsis etmek
+ithaf etmek

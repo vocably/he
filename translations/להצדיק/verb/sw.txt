@@ -1,1 +1,2 @@
-["kuhalalisha","kutetea"]
+kuhalalisha
+kutetea

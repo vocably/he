@@ -1,1 +1,3 @@
-["tilgeadh","buaidh","dealbh"]
+tilgeadh
+buaidh
+dealbh

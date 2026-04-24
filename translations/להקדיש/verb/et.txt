@@ -1,1 +1,3 @@
-["pühendama","ohverdama","pühitsema"]
+pühendama
+ohverdama
+pühitsema

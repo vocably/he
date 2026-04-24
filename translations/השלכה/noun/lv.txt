@@ -1,1 +1,3 @@
-["mešana","ietekme","projekcija"]
+mešana
+ietekme
+projekcija

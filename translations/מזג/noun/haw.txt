@@ -1,1 +1,3 @@
-["ʻano","hui","naʻau"]
+ʻano
+hui
+naʻau

@@ -1,1 +1,3 @@
-["utamane","mligine","luwih-luwih"]
+utamane
+mligine
+luwih-luwih

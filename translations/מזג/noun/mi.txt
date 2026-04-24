@@ -1,1 +1,3 @@
-["ahua","ngākau","hurō"]
+ahua
+ngākau
+hurō

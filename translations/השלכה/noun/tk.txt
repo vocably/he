@@ -1,1 +1,3 @@
-["taşlamak","netije","proýeksiýa"]
+taşlamak
+netije
+proýeksiýa

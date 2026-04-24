@@ -1,1 +1,3 @@
-["kennen","kennenlernen","anerkennen"]
+kennen
+kennenlernen
+anerkennen

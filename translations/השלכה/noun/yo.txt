@@ -1,1 +1,3 @@
-["ìsọnu","àbájáde","ìyànsí"]
+ìsọnu
+àbájáde
+ìyànsí

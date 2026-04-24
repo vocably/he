@@ -1,1 +1,3 @@
-["Bihagije","Birahagije","Ku rugero ruhagije"]
+Bihagije
+Birahagije
+Ku rugero ruhagije

@@ -1,1 +1,3 @@
-["ho lahla","phello","kahlolo"]
+ho lahla
+phello
+kahlolo

@@ -1,1 +1,3 @@
-["dayac","iskadhigid","geesmaris"]
+dayac
+iskadhigid
+geesmaris

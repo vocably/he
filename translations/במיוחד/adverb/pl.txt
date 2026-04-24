@@ -1,1 +1,3 @@
-["szczególnie","specjalnie","zwłaszcza"]
+szczególnie
+specjalnie
+zwłaszcza

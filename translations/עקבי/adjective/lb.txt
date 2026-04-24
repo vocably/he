@@ -1,1 +1,2 @@
-["konsequent","nohalteg"]
+konsequent
+nohalteg

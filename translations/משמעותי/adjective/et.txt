@@ -1,1 +1,3 @@
-["oluline","märkimisväärne","tähtis"]
+oluline
+märkimisväärne
+tähtis

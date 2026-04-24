@@ -1,1 +1,2 @@
-["Ime ka o ziri ezi","Kwuwa okwu"]
+Ime ka o ziri ezi
+Kwuwa okwu

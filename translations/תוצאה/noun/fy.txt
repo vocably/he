@@ -1,1 +1,2 @@
-["gefolch","útslach"]
+gefolch
+útslach

@@ -1,1 +1,2 @@
-["omvattend","rondom"]
+omvattend
+rondom

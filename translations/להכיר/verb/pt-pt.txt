@@ -1,1 +1,3 @@
-["conhecer","reconhecer","apresentar"]
+conhecer
+reconhecer
+apresentar

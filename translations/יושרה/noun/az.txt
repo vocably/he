@@ -1,1 +1,2 @@
-["dürüstlük","vicdan"]
+dürüstlük
+vicdan

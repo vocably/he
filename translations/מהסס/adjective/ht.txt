@@ -1,1 +1,3 @@
-["ezite","endesi","pa deside"]
+ezite
+endesi
+pa deside

@@ -1,1 +1,3 @@
-["resilience","immunity","strength"]
+resilience
+immunity
+strength

@@ -1,1 +1,3 @@
-["imediatamente","já","depressa"]
+imediatamente
+já
+depressa

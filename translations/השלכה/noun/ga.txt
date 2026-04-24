@@ -1,1 +1,3 @@
-["caith","iarmhairt","teilgean"]
+caith
+iarmhairt
+teilgean

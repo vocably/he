@@ -1,1 +1,3 @@
-["hezitema","nedecidema","malcerta"]
+hezitema
+nedecidema
+malcerta

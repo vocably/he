@@ -1,1 +1,3 @@
-["ia iloa","ia feiloaʻi","ia faʻafetai"]
+ia iloa
+ia feiloaʻi
+ia faʻafetai

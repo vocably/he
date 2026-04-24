@@ -1,1 +1,3 @@
-["að þekkja","að kynnast","að viðurkenna"]
+að þekkja
+að kynnast
+að viðurkenna

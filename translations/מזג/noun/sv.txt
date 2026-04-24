@@ -1,1 +1,3 @@
-["humör","temperament","sinnesstämning"]
+humör
+temperament
+sinnesstämning

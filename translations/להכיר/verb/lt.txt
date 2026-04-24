@@ -1,1 +1,3 @@
-["pažinti","susipažinti","pripažinti"]
+pažinti
+susipažinti
+pripažinti

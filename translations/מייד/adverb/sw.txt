@@ -1,1 +1,3 @@
-["Mara moja","Papo hapo","Haraka sana"]
+Mara moja
+Papo hapo
+Haraka sana

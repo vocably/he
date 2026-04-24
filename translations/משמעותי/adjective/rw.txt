@@ -1,1 +1,3 @@
-["ingenzi","ifite agaciro","ikomeye"]
+ingenzi
+ifite agaciro
+ikomeye

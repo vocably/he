@@ -1,1 +1,3 @@
-["postepeno","stepenasto","gradualno"]
+postepeno
+stepenasto
+gradualno

@@ -1,1 +1,3 @@
-["piacevule","gradevule","allegru"]
+piacevule
+gradevule
+allegru

@@ -1,1 +1,2 @@
-["meáigh","breithnigh"]
+meáigh
+breithnigh

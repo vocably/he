@@ -1,1 +1,3 @@
-["wifel","twifelich","ûnbeslútte"]
+wifel
+twifelich
+ûnbeslútte

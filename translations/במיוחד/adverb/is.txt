@@ -1,1 +1,3 @@
-["sérstaklega","einkum","umfram allt"]
+sérstaklega
+einkum
+umfram allt

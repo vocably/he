@@ -1,1 +1,3 @@
-["geleidelijk","stapsgewijs","gaandeweg"]
+geleidelijk
+stapsgewijs
+gaandeweg

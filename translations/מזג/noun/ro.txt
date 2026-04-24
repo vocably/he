@@ -1,1 +1,3 @@
-["fire","temperament","mood"]
+fire
+temperament
+mood

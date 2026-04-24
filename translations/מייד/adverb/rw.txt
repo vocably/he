@@ -1,1 +1,3 @@
-["Ako kanya","Ubu nonaha","Bidatinze"]
+Ako kanya
+Ubu nonaha
+Bidatinze

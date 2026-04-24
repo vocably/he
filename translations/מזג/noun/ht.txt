@@ -1,1 +1,3 @@
-["tanperaman","imè","melanj"]
+tanperaman
+imè
+melanj

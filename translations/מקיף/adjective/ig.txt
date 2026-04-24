@@ -1,1 +1,2 @@
-["gbara-gbara","gburugburu"]
+gbara-gbara
+gburugburu

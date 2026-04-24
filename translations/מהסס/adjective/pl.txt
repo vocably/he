@@ -1,1 +1,3 @@
-["niezdecydowany","wahający się","chwiejny"]
+niezdecydowany
+wahający się
+chwiejny

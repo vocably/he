@@ -1,1 +1,3 @@
-["lues a lues","no an no","graduell"]
+lues a lues
+no an no
+graduell

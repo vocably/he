@@ -1,1 +1,3 @@
-["digon","yn ddigonol","yn helaeth"]
+digon
+yn ddigonol
+yn helaeth

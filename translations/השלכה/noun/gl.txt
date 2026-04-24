@@ -1,1 +1,3 @@
-["proxección","consecuencia","efecto"]
+proxección
+consecuencia
+efecto

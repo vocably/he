@@ -1,1 +1,3 @@
-["aproximadamente","cerca de","mais ou menos"]
+aproximadamente
+cerca de
+mais ou menos

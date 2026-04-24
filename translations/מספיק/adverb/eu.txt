@@ -1,1 +1,3 @@
-["nahikoa","aski","bete"]
+nahikoa
+aski
+bete

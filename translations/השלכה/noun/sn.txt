@@ -1,1 +1,3 @@
-["kukanda","mhedzisiro","kuisa"]
+kukanda
+mhedzisiro
+kuisa

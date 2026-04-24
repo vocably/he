@@ -1,1 +1,3 @@
-["genôch","foldwaande","yn genôch mjitte"]
+genôch
+foldwaande
+yn genôch mjitte

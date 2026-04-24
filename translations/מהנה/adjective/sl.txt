@@ -1,1 +1,3 @@
-["prijeten","zabaven","vesel"]
+prijeten
+zabaven
+vesel

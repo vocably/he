@@ -1,1 +1,3 @@
-["Maka","Putanga","Whakaata"]
+Maka
+Putanga
+Whakaata

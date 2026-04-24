@@ -1,1 +1,2 @@
-["Integritet","Poštenje"]
+Integritet
+Poštenje

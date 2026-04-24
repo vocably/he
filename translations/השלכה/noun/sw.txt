@@ -1,1 +1,3 @@
-["kutupa","matokeo","makadirio"]
+kutupa
+matokeo
+makadirio

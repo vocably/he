@@ -1,1 +1,2 @@
-["anotsigira","asingachinji"]
+anotsigira
+asingachinji

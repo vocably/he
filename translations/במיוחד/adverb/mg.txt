@@ -1,1 +1,3 @@
-["indrindra","manokana","mihoatra"]
+indrindra
+manokana
+mihoatra

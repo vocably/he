@@ -1,1 +1,3 @@
-["gutxi gorabehera","gutxi gora behera","gutxi-gorabehera"]
+gutxi gorabehera
+gutxi gora behera
+gutxi-gorabehera

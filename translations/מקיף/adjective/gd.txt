@@ -1,1 +1,2 @@
-["coileanta","cuimsich"]
+coileanta
+cuimsich

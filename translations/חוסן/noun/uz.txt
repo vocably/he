@@ -1,1 +1,3 @@
-["chidam","mustahkamlik","immunitet"]
+chidam
+mustahkamlik
+immunitet

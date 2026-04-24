@@ -1,1 +1,3 @@
-["merkittävä","tärkeä","vaikutusvaltainen"]
+merkittävä
+tärkeä
+vaikutusvaltainen

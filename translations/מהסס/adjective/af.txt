@@ -1,1 +1,3 @@
-["huiwerig","besluiteloos","onseker"]
+huiwerig
+besluiteloos
+onseker

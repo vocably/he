@@ -1,1 +1,3 @@
-["a dedica","a consacra","a sfinți"]
+a dedica
+a consacra
+a sfinți

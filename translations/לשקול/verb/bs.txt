@@ -1,1 +1,2 @@
-["vagati","razmotriti"]
+vagati
+razmotriti

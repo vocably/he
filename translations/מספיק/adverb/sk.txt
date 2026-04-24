@@ -1,1 +1,3 @@
-["dosť","dostatočne","primerane"]
+dosť
+dostatočne
+primerane

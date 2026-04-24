@@ -1,1 +1,2 @@
-["konsekvent","vedholdende"]
+konsekvent
+vedholdende

@@ -1,1 +1,3 @@
-["zokwanira","mokwanira","zambiri"]
+zokwanira
+mokwanira
+zambiri

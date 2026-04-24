@@ -1,1 +1,3 @@
-["abondo","suficientemente","bastante"]
+abondo
+suficientemente
+bastante

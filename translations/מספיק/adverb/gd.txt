@@ -1,1 +1,3 @@
-["gu leòr","gu h-iomlan","gu h-àraidh"]
+gu leòr
+gu h-iomlan
+gu h-àraidh

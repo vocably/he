@@ -1,1 +1,3 @@
-["balang","pangaruh","proyéksi"]
+balang
+pangaruh
+proyéksi

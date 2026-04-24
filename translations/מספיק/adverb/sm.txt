@@ -1,1 +1,3 @@
-["lava","talafeagai","faʻalelei"]
+lava
+talafeagai
+faʻalelei

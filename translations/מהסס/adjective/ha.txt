@@ -1,1 +1,3 @@
-["mai shakka","mai jinkiri","marar tabbas"]
+mai shakka
+mai jinkiri
+marar tabbas

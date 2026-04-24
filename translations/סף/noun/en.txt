@@ -1,1 +1,3 @@
-["threshold","doorstep","verge"]
+threshold
+doorstep
+verge

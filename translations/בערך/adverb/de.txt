@@ -1,1 +1,3 @@
-["ungefähr","etwa","zirka"]
+ungefähr
+etwa
+zirka

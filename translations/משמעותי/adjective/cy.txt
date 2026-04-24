@@ -1,1 +1,3 @@
-["Arwyddocaol","Ystyrlon","Pwysig"]
+Arwyddocaol
+Ystyrlon
+Pwysig

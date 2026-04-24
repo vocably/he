@@ -1,1 +1,3 @@
-["rawaka","tōtika","nui"]
+rawaka
+tōtika
+nui

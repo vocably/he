@@ -1,1 +1,4 @@
-["narav","temperament","raspolo\nja"]
+narav
+temperament
+raspolo
+ja

@@ -1,1 +1,3 @@
-["tøvende","uafklaret","usikker"]
+tøvende
+uafklaret
+usikker

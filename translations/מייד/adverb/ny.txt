@@ -1,1 +1,3 @@
-["Tsopano","Pomwepo","Msanga"]
+Tsopano
+Pomwepo
+Msanga

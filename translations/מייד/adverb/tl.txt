@@ -1,1 +1,3 @@
-["kaagad","agad","sa madaling panahon"]
+kaagad
+agad
+sa madaling panahon

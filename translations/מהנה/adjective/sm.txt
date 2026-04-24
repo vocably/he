@@ -1,1 +1,3 @@
-["faafiafia","manaia","lelei"]
+faafiafia
+manaia
+lelei

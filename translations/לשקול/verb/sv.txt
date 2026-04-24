@@ -1,1 +1,2 @@
-["väga","överväga"]
+väga
+överväga

@@ -1,1 +1,3 @@
-["bohlokoa","hlokoa","na le moelelo"]
+bohlokoa
+hlokoa
+na le moelelo

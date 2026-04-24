@@ -1,1 +1,2 @@
-["suav nrog","ib ncig"]
+suav nrog
+ib ncig

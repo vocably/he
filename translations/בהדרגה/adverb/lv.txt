@@ -1,1 +1,3 @@
-["pakāpeniski","pamazām","soli pa solim"]
+pakāpeniski
+pamazām
+soli pa solim

@@ -1,1 +1,3 @@
-["conoscere","riconoscere","incontrare"]
+conoscere
+riconoscere
+incontrare

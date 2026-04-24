@@ -1,1 +1,3 @@
-["príjemný","radostný","zábavný"]
+príjemný
+radostný
+zábavný

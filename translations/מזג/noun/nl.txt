@@ -1,1 +1,3 @@
-["temperament","humeur","mengsel"]
+temperament
+humeur
+mengsel

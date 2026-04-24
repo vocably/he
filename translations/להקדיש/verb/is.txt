@@ -1,1 +1,3 @@
-["helga","tileinka","vígja"]
+helga
+tileinka
+vígja

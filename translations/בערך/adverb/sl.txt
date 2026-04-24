@@ -1,1 +1,3 @@
-["približno","okoli","nekako"]
+približno
+okoli
+nekako

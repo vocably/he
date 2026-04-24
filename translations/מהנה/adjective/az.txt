@@ -1,1 +1,3 @@
-["əyləncəli","xoş","zövqlü"]
+əyləncəli
+xoş
+zövqlü

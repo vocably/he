@@ -1,1 +1,3 @@
-["ukunikezela","ukuhlonipha","ukungcwalisa"]
+ukunikezela
+ukuhlonipha
+ukungcwalisa

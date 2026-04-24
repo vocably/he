@@ -1,1 +1,2 @@
-["zintzotasun","osotasun"]
+zintzotasun
+osotasun

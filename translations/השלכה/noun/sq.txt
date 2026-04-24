@@ -1,1 +1,3 @@
-["hedhje","pasojë","projektim"]
+hedhje
+pasojë
+projektim

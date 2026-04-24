@@ -1,1 +1,3 @@
-["posljedica","bacanje","projekcija"]
+posljedica
+bacanje
+projekcija

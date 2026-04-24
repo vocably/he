@@ -1,1 +1,3 @@
-["txaus","raws li qhov tsim nyog","kom txaus"]
+txaus
+raws li qhov tsim nyog
+kom txaus

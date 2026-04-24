@@ -1,1 +1,3 @@
-["küszöb","határ","kezdet"]
+küszöb
+határ
+kezdet

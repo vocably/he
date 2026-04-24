@@ -1,1 +1,3 @@
-["gutera","ingaruka","kwiyitirira"]
+gutera
+ingaruka
+kwiyitirira

@@ -1,1 +1,2 @@
-["vega","íhuga"]
+vega
+íhuga

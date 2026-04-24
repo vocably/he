@@ -1,1 +1,3 @@
-["durnuklylyk","berklik","gowşamazlyk"]
+durnuklylyk
+berklik
+gowşamazlyk

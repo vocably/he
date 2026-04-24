@@ -1,1 +1,3 @@
-["Enggal","Sanalika","Saknalika"]
+Enggal
+Sanalika
+Saknalika

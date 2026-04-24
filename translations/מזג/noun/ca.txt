@@ -1,1 +1,3 @@
-["temperament","humor","barreja"]
+temperament
+humor
+barreja

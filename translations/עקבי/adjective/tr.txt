@@ -1,1 +1,2 @@
-["tutarlı","istikrarlı"]
+tutarlı
+istikrarlı

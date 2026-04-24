@@ -1,1 +1,3 @@
-["verwaarloos","afskeep","ignoreer"]
+verwaarloos
+afskeep
+ignoreer

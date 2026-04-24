@@ -1,1 +1,3 @@
-["ellenállóképesség","szívósság","immunitás"]
+ellenállóképesség
+szívósság
+immunitás

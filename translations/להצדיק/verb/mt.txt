@@ -1,1 +1,2 @@
-["tiġġustifika","timmotiva"]
+tiġġustifika
+timmotiva

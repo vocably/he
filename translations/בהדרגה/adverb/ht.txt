@@ -1,1 +1,3 @@
-["tikras pa tikras","piti pa piti","etap pa etap"]
+tikras pa tikras
+piti pa piti
+etap pa etap

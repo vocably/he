@@ -1,1 +1,3 @@
-["temperament","razpoloženje","mešanica"]
+temperament
+razpoloženje
+mešanica

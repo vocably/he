@@ -1,1 +1,3 @@
-["jaurtiketa","ondorio","proiekzio"]
+jaurtiketa
+ondorio
+proiekzio

@@ -1,1 +1,2 @@
-["Maingat","Mag-ingat"]
+Maingat
+Mag-ingat

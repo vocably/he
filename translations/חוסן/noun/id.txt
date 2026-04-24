@@ -1,1 +1,3 @@
-["ketahanan","kekuatan","imunitas"]
+ketahanan
+kekuatan
+imunitas

@@ -1,1 +1,3 @@
-["ghjettu","cunsequenza","prujezzione"]
+ghjettu
+cunsequenza
+prujezzione

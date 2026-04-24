@@ -1,1 +1,3 @@
-["jelentős","értékes","fontos"]
+jelentős
+értékes
+fontos

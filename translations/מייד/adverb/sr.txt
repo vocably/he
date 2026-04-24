@@ -1,1 +1,3 @@
-["odmah","smesta","hitno"]
+odmah
+smesta
+hitno

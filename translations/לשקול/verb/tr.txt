@@ -1,1 +1,2 @@
-["tartmak","değerlendirmek"]
+tartmak
+değerlendirmek

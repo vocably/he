@@ -1,1 +1,3 @@
-["fere","nipa","bii"]
+fere
+nipa
+bii

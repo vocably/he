@@ -1,1 +1,3 @@
-["poznati","spoznati","priznati"]
+poznati
+spoznati
+priznati

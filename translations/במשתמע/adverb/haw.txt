@@ -1,1 +1,2 @@
-["maopopo","huna"]
+maopopo
+huna

@@ -1,1 +1,2 @@
-["wiegen","abwägen"]
+wiegen
+abwägen

@@ -1,1 +1,3 @@
-["i këndshëm","argëtues","gazmor"]
+i këndshëm
+argëtues
+gazmor

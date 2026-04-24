@@ -1,1 +1,3 @@
-["Ampy","Araka ny tokony ho izy","Mifanaraka amin'ny ilaina"]
+Ampy
+Araka ny tokony ho izy
+Mifanaraka amin'ny ilaina

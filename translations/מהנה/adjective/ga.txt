@@ -1,1 +1,3 @@
-["taitneamhach","aoibhinn","sultmhar"]
+taitneamhach
+aoibhinn
+sultmhar

@@ -1,1 +1,3 @@
-["kusan","kimanin","daidai"]
+kusan
+kimanin
+daidai

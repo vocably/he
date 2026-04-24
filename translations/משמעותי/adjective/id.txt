@@ -1,1 +1,3 @@
-["signifikan","penting","berarti"]
+signifikan
+penting
+berarti

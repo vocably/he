@@ -1,1 +1,3 @@
-["lancio","proiezione","conseguenza"]
+lancio
+proiezione
+conseguenza

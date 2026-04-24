@@ -1,1 +1,3 @@
-["nok","tilstrekkelig","tilfredsstillende"]
+nok
+tilstrekkelig
+tilfredsstillende

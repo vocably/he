@@ -1,1 +1,3 @@
-["postopoma","stopničasto","počasi"]
+postopoma
+stopničasto
+počasi

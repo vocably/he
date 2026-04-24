@@ -1,1 +1,3 @@
-["to dedicate","to devote","to consecrate"]
+to dedicate
+to devote
+to consecrate

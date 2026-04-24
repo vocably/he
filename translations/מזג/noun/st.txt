@@ -1,1 +1,3 @@
-["boemo","sefahleho","moea"]
+boemo
+sefahleho
+moea

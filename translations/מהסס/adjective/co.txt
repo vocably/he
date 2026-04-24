@@ -1,1 +1,3 @@
-["esitante","perplessa","irresolutu"]
+esitante
+perplessa
+irresolutu

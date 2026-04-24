@@ -1,1 +1,3 @@
-["Garasho","Aqoonso","Qirasho"]
+Garasho
+Aqoonso
+Qirasho

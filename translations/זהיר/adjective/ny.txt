@@ -1,1 +1,2 @@
-["Wochen","Mosamala"]
+Wochen
+Mosamala

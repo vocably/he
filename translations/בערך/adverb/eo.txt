@@ -1,1 +1,3 @@
-["proksimume","ĉirkaŭ","pli malpli"]
+proksimume
+ĉirkaŭ
+pli malpli

@@ -1,1 +1,3 @@
-["elhanyagol","magára hagy","nem törődik vele"]
+elhanyagol
+magára hagy
+nem törődik vele

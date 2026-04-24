@@ -1,1 +1,3 @@
-["mamang","ragu-ragu","kurang mantep"]
+mamang
+ragu-ragu
+kurang mantep

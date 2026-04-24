@@ -1,1 +1,3 @@
-["utamana","hususna","leuwih ti biasana"]
+utamana
+hususna
+leuwih ti biasana

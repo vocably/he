@@ -1,1 +1,3 @@
-["berehala","arinki","laster"]
+berehala
+arinki
+laster

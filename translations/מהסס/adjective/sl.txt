@@ -1,1 +1,3 @@
-["neodločen","obotavljajoč","nerazumen"]
+neodločen
+obotavljajoč
+nerazumen

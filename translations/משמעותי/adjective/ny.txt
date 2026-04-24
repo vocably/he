@@ -1,1 +1,3 @@
-["chofunika","chapamwamba","chofunikira"]
+chofunika
+chapamwamba
+chofunikira

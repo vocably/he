@@ -1,1 +1,3 @@
-["dành riêng","cống hiến","tôn vinh"]
+dành riêng
+cống hiến
+tôn vinh

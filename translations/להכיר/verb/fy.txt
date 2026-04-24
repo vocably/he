@@ -1,1 +1,3 @@
-["kende","erkende","moete"]
+kende
+erkende
+moete

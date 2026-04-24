@@ -1,1 +1,3 @@
-["fornøjelig","behagelig","underholdende"]
+fornøjelig
+behagelig
+underholdende

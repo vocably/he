@@ -1,1 +1,3 @@
-["na-ala-ala","onye-ihere","onye-utere"]
+na-ala-ala
+onye-ihere
+onye-utere

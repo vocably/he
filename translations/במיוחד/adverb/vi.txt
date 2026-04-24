@@ -1,1 +1,3 @@
-["Đặc biệt","Cụ thể","Riêng biệt"]
+Đặc biệt
+Cụ thể
+Riêng biệt

@@ -1,1 +1,3 @@
-["ĵeto","sekvo","projekcio"]
+ĵeto
+sekvo
+projekcio

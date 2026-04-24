@@ -1,1 +1,3 @@
-["ngerti","kenal","ngakoni"]
+ngerti
+kenal
+ngakoni

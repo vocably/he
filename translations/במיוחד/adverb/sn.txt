@@ -1,1 +1,3 @@
-["kunyanya","zvikuru","kupfuura zvose"]
+kunyanya
+zvikuru
+kupfuura zvose

@@ -1,1 +1,3 @@
-["Ike","Nduzi","Mgbachi"]
+Ike
+Nduzi
+Mgbachi

@@ -1,1 +1,3 @@
-["mėtymas","pasekmė","projekcija"]
+mėtymas
+pasekmė
+projekcija

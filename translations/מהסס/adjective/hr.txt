@@ -1,1 +1,3 @@
-["neodlučan","kolebljiv","nesiguran"]
+neodlučan
+kolebljiv
+nesiguran

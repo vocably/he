@@ -1,1 +1,3 @@
-["Kwanele","Ngokwanele","Ngokulingene"]
+Kwanele
+Ngokwanele
+Ngokulingene

@@ -1,1 +1,3 @@
-["ihmal etmek","savsaklamak","yüzüstü bırakmak"]
+ihmal etmek
+savsaklamak
+yüzüstü bırakmak

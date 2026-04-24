@@ -1,1 +1,3 @@
-["takmynan","töweregi","golaý"]
+takmynan
+töweregi
+golaý

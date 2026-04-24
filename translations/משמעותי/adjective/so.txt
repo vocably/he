@@ -1,1 +1,3 @@
-["Muhiim ah","Qiimo leh","Saameyn leh"]
+Muhiim ah
+Qiimo leh
+Saameyn leh

@@ -1,1 +1,3 @@
-["smám saman","stig af stigi","hægt og rólega"]
+smám saman
+stig af stigi
+hægt og rólega

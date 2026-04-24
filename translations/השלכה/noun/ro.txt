@@ -1,1 +1,3 @@
-["aruncare","proiecție","consecință"]
+aruncare
+proiecție
+consecință

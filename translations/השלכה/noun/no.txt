@@ -1,1 +1,3 @@
-["kast","konsekvens","projeksjon"]
+kast
+konsekvens
+projeksjon

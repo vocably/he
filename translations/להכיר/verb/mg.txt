@@ -1,1 +1,3 @@
-["mahalala","miaiky","mifankahalala"]
+mahalala
+miaiky
+mifankahalala

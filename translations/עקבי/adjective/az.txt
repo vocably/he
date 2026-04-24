@@ -1,1 +1,2 @@
-["ardıcıl","konsekuentli"]
+ardıcıl
+konsekuentli

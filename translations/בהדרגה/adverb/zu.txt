@@ -1,1 +1,3 @@
-["kancane kancane","ngezigaba","ngokuhamba kwesikhathi"]
+kancane kancane
+ngezigaba
+ngokuhamba kwesikhathi

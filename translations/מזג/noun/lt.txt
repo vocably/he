@@ -1,1 +1,3 @@
-["būdas","nuotaika","mišinys"]
+būdas
+nuotaika
+mišinys

@@ -1,1 +1,3 @@
-["zalantzati","dudakor","segurtasunik eza"]
+zalantzati
+dudakor
+segurtasunik eza

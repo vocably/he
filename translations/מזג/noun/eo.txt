@@ -1,1 +1,3 @@
-["humoro","temperamento","dispozicio"]
+humoro
+temperamento
+dispozicio

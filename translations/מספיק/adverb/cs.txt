@@ -1,1 +1,3 @@
-["dost","dostatečně","stačí"]
+dost
+dostatečně
+stačí

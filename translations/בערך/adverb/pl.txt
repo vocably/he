@@ -1,1 +1,3 @@
-["około","mniej więcej","w przybliżeniu"]
+około
+mniej więcej
+w przybliżeniu

@@ -1,1 +1,3 @@
-["widmen","weihen","heiligen"]
+widmen
+weihen
+heiligen

@@ -1,1 +1,3 @@
-["miellyttävä","nautittava","hauska"]
+miellyttävä
+nautittava
+hauska

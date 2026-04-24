@@ -1,1 +1,3 @@
-["cudromach","brìoghmhor","feumail"]
+cudromach
+brìoghmhor
+feumail

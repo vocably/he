@@ -1,1 +1,3 @@
-["wigati","penting","migunani"]
+wigati
+penting
+migunani

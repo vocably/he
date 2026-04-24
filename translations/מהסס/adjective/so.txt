@@ -1,1 +1,3 @@
-["Libaaxsan","Shaki qaba","Gariiraya"]
+Libaaxsan
+Shaki qaba
+Gariiraya

@@ -1,1 +1,2 @@
-["komprehensibo","malawak"]
+komprehensibo
+malawak

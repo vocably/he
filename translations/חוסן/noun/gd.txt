@@ -1,1 +1,3 @@
-["seasmhachd","neart","dìonachd"]
+seasmhachd
+neart
+dìonachd

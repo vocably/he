@@ -1,1 +1,3 @@
-["trevlig","angenäm","njutbar"]
+trevlig
+angenäm
+njutbar

@@ -1,1 +1,2 @@
-["coherente","consistente"]
+coherente
+consistente

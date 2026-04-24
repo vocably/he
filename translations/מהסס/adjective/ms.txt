@@ -1,1 +1,3 @@
-["ragu-ragu","teragak-agak","bimbang"]
+ragu-ragu
+teragak-agak
+bimbang

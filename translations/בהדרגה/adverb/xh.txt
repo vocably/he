@@ -1,1 +1,3 @@
-["ngokuthe ngcembe","ngokuthe chu","inqanaba ngenqanaba"]
+ngokuthe ngcembe
+ngokuthe chu
+inqanaba ngenqanaba

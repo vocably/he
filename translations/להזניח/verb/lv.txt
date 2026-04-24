@@ -1,1 +1,3 @@
-["pamest","atstāt novārtā","ignorēt"]
+pamest
+atstāt novārtā
+ignorēt

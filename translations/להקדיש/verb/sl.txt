@@ -1,1 +1,3 @@
-["posvetiti","nameniti","darovati"]
+posvetiti
+nameniti
+darovati

@@ -1,1 +1,3 @@
-["besonnesch","speziell","virun allem"]
+besonnesch
+speziell
+virun allem

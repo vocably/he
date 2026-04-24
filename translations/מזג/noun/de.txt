@@ -1,1 +1,3 @@
-["Temperament","Gemüt","Laune"]
+Temperament
+Gemüt
+Laune

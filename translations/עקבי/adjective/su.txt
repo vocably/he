@@ -1,1 +1,2 @@
-["konsisten","ajeg"]
+konsisten
+ajeg

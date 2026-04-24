@@ -1,1 +1,3 @@
-["lalo na","higit sa lahat","partikular"]
+lalo na
+higit sa lahat
+partikular

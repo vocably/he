@@ -1,1 +1,3 @@
-["abejojantis","nedecyvus","svyruojantis"]
+abejojantis
+nedecyvus
+svyruojantis

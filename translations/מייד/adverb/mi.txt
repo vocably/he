@@ -1,1 +1,3 @@
-["Inamata","Tonu","Wawe"]
+Inamata
+Tonu
+Wawe

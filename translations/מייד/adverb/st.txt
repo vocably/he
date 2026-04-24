@@ -1,1 +1,3 @@
-["hang","ka bonako","kaha joale"]
+hang
+ka bonako
+kaha joale

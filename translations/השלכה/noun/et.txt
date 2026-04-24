@@ -1,1 +1,3 @@
-["tagajärg","projektsioon","viskamine"]
+tagajärg
+projektsioon
+viskamine

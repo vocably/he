@@ -1,1 +1,3 @@
-["seasmhacht","frithsheasmhacht","díolúine"]
+seasmhacht
+frithsheasmhacht
+díolúine

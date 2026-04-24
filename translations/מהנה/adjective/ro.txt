@@ -1,1 +1,3 @@
-["plăcut","agreabil","amuzant"]
+plăcut
+agreabil
+amuzant

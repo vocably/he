@@ -1,1 +1,3 @@
-["ezu","ezuru","nke zuru oke"]
+ezu
+ezuru
+nke zuru oke

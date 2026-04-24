@@ -1,1 +1,3 @@
-["ukuphosa","isiphumo","ukuqikelela"]
+ukuphosa
+isiphumo
+ukuqikelela

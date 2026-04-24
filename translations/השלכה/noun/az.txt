@@ -1,1 +1,3 @@
-["atılma","nəticə","proyeksiya"]
+atılma
+nəticə
+proyeksiya

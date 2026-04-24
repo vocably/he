@@ -1,1 +1,3 @@
-["ongaqinisekanga","othandabuzayo","ongagqibanga"]
+ongaqinisekanga
+othandabuzayo
+ongagqibanga

@@ -1,1 +1,3 @@
-["habozó","ingadozó","határozatlan"]
+habozó
+ingadozó
+határozatlan

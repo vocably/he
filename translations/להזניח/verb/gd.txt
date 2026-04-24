@@ -1,1 +1,3 @@
-["dearmad","fàgail","leigeil seachad"]
+dearmad
+fàgail
+leigeil seachad

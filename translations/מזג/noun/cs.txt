@@ -1,1 +1,3 @@
-["temperament","nálada","směs"]
+temperament
+nálada
+směs

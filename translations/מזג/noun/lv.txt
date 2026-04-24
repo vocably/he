@@ -1,1 +1,3 @@
-["temperaments","garastāvoklis","noskaņojums"]
+temperaments
+garastāvoklis
+noskaņojums

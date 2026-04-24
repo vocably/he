@@ -1,1 +1,3 @@
-["gevolg","projectie","worp"]
+gevolg
+projectie
+worp

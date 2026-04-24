@@ -1,1 +1,2 @@
-["důsledný","konzistentní"]
+důsledný
+konzistentní

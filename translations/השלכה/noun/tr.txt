@@ -1,1 +1,3 @@
-["yansıtma","sonuç","çıkarım"]
+yansıtma
+sonuç
+çıkarım

@@ -1,1 +1,3 @@
-["throwing","consequence","projection"]
+throwing
+consequence
+projection

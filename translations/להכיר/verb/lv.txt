@@ -1,1 +1,3 @@
-["iepazīties","pazīt","atzīt"]
+iepazīties
+pazīt
+atzīt

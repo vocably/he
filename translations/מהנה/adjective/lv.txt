@@ -1,1 +1,3 @@
-["patīkams","jauks","priecīgs"]
+patīkams
+jauks
+priecīgs

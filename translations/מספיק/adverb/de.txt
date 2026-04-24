@@ -1,1 +1,3 @@
-["genug","ausreichend","hinlänglich"]
+genug
+ausreichend
+hinlänglich

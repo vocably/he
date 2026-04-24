@@ -1,1 +1,3 @@
-["takriban","kama","karibu"]
+takriban
+kama
+karibu

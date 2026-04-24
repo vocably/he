@@ -1,1 +1,3 @@
-["kuponya","zotsatira","kulingalira"]
+kuponya
+zotsatira
+kulingalira

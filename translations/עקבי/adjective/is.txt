@@ -1,1 +1,2 @@
-["samkvæmur","í samræmi"]
+samkvæmur
+í samræmi

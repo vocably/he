@@ -1,1 +1,2 @@
-["Natiijo","Qayb"]
+Natiijo
+Qayb

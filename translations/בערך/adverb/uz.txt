@@ -1,1 +1,3 @@
-["taxminan","qariyb","atrofida"]
+taxminan
+qariyb
+atrofida

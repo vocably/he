@@ -1,1 +1,3 @@
-["gu sònraichte","gu h-àraidh","os cionn an àbhaist"]
+gu sònraichte
+gu h-àraidh
+os cionn an àbhaist

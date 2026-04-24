@@ -1,1 +1,2 @@
-["kupima","kutafakari"]
+kupima
+kutafakari

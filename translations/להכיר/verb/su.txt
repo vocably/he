@@ -1,1 +1,3 @@
-["Mikawanoh","Nyanggem","Ngaku"]
+Mikawanoh
+Nyanggem
+Ngaku

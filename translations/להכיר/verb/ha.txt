@@ -1,1 +1,3 @@
-["sani","gane","yarda"]
+sani
+gane
+yarda

@@ -1,1 +1,3 @@
-["Werfen","Konsequenz","Projektioun"]
+Werfen
+Konsequenz
+Projektioun

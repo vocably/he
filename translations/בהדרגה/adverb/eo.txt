@@ -1,1 +1,3 @@
-["iom post iom","grade-post-grade","paŝo post paŝo"]
+iom post iom
+grade-post-grade
+paŝo post paŝo

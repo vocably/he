@@ -1,1 +1,3 @@
-["ähmiýetli","wajyp","möhüm"]
+ähmiýetli
+wajyp
+möhüm

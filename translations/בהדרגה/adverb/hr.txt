@@ -1,1 +1,3 @@
-["postupno","polako","korak po korak"]
+postupno
+polako
+korak po korak

@@ -1,1 +1,3 @@
-["kushtoj","përkushtoj","shenjtëroj"]
+kushtoj
+përkushtoj
+shenjtëroj

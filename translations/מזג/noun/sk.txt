@@ -1,1 +1,3 @@
-["temperament","nálada","povaha"]
+temperament
+nálada
+povaha

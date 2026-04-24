@@ -1,1 +1,3 @@
-["dayanıklılık","sağlamlık","direnç"]
+dayanıklılık
+sağlamlık
+direnç

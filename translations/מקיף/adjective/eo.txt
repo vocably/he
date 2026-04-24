@@ -1,1 +1,2 @@
-["ampleksa","ĉirkaŭa"]
+ampleksa
+ĉirkaŭa

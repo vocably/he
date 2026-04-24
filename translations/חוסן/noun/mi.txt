@@ -1,1 +1,3 @@
-["pakari","manawa","ārai"]
+pakari
+manawa
+ārai

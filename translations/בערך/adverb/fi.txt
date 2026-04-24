@@ -1,1 +1,3 @@
-["noin","suunnilleen","likimain"]
+noin
+suunnilleen
+likimain

@@ -1,1 +1,3 @@
-["ugali","disposisyon","kondisyon"]
+ugali
+disposisyon
+kondisyon

@@ -1,1 +1,3 @@
-["coisrig","tiomnadh","naomhachadh"]
+coisrig
+tiomnadh
+naomhachadh

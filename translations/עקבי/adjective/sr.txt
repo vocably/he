@@ -1,1 +1,2 @@
-["dosledan","konzistentan"]
+dosledan
+konzistentan

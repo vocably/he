@@ -1,1 +1,3 @@
-["hoo e ka bang","haufi le","ka bang"]
+hoo e ka bang
+haufi le
+ka bang

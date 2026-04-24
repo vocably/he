@@ -1,1 +1,2 @@
-["cumprènsivu","circundante"]
+cumprènsivu
+circundante

@@ -1,1 +1,3 @@
-["at kende","at møde","at anerkende"]
+at kende
+at møde
+at anerkende

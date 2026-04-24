@@ -1,1 +1,3 @@
-["Kifayət qədər","Yetərincə","Olduqca"]
+Kifayət qədər
+Yetərincə
+Olduqca

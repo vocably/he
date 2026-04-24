@@ -1,1 +1,3 @@
-["go leor","a dhóthain","sásúil"]
+go leor
+a dhóthain
+sásúil

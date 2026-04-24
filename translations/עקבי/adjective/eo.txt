@@ -1,1 +1,2 @@
-["konsekvenca","kohera"]
+konsekvenca
+kohera

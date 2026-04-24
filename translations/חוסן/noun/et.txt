@@ -1,1 +1,3 @@
-["vastupidavus","tugevus","immuunsus"]
+vastupidavus
+tugevus
+immuunsus

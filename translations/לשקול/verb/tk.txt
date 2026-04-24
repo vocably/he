@@ -1,1 +1,2 @@
-["çekmek","ölçmek"]
+çekmek
+ölçmek

@@ -1,1 +1,2 @@
-["integritet","ndërshmëri"]
+integritet
+ndërshmëri
